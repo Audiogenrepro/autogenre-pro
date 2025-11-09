@@ -1,0 +1,5 @@
+[build]
+rustflags = ["-L", "/nix/store/jl19fdc7gdxqz9a1s368r9d15vpirnqy-zlib-1.3.1/lib"]
+
+[target.x86_64-unknown-linux-gnu]
+rustflags = ["-L", "/nix/store/jl19fdc7gdxqz9a1s368r9d15vpirnqy-zlib-1.3.1/lib"]
